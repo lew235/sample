@@ -8,7 +8,7 @@ I'm adding to the readme file
 now I'm adding another line
 
 and I'm going to do something else here so I can see what it looks like in "insights" 
-(insights --> networks)
+(insights --> network graph)
 
 Note that if you don't add lines spacing the text all smushes together!
 
